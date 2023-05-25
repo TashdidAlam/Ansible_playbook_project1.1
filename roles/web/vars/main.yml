@@ -1,0 +1,4 @@
+---
+httpd_port: 80
+mysql_port: 3306
+repo: https://github.com/TashdidAlam/project1.2.git
